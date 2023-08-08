@@ -1,0 +1,186 @@
+[
+      { 
+        "id" : 1,
+        "name": "John Smith",
+        "image": "john-smith.jpg",
+        "experience": "5 years",
+        "recipes": 10,
+        "likes": 500,
+        "short_bio": "Chef John is passionate about using fresh, locally-sourced ingredients in his dishes. He loves experimenting with new flavors and techniques to create unique and memorable meals.",
+        "recipes_list": [
+          {
+            "name": "Grilled Salmon",
+            "ingredients": ["salmon fillets", "olive oil", "lemon juice", "garlic", "salt", "pepper"],
+            "cooking_method": "1. Preheat grill to medium-high heat. 2. In a small bowl, whisk together olive oil, lemon juice, minced garlic, salt, and pepper. 3. Brush the salmon fillets with the olive oil mixture. 4. Grill the salmon for 4-5 minutes per side, or until cooked to your desired level of doneness. 5. Serve hot.",
+            "rating": 4.5
+          },
+          {
+            "name": "Roasted Chicken",
+            "ingredients": ["chicken", "olive oil", "lemon", "garlic", "salt", "pepper"],
+            "cooking_method": "1. Preheat oven to 400°F. 2. Season the chicken with salt and pepper. 3. In a small bowl, whisk together olive oil, lemon juice, and minced garlic. 4. Rub the olive oil mixture all over the chicken. 5. Roast the chicken for 45-50 minutes, or until cooked through. 6. Let rest for 5 minutes before serving.",
+            "rating": 4.8
+          },
+          {
+            "name": "Pesto Pasta",
+            "ingredients": ["pasta", "basil leaves", "pine nuts", "garlic", "parmesan cheese", "olive oil"],
+            "cooking_method": "1. Cook the pasta according to package directions. 2. In a food processor, pulse together basil leaves, pine nuts, minced garlic, grated parmesan cheese, and olive oil until smooth. 3. Drain the pasta and return it to the pot. 4. Add the pesto sauce to the pasta and toss to coat. 5. Serve hot.",
+            "rating": 4.3
+          }
+        ]
+      },
+
+      
+      { 
+        "id" : 2,
+        "name": "John Smith",
+        "image": "john-smith.jpg",
+        "experience": "5 years",
+        "recipes": 10,
+        "likes": 500,
+        "short_bio": "Chef John is passionate about using fresh, locally-sourced ingredients in his dishes. He loves experimenting with new flavors and techniques to create unique and memorable meals.",
+        "recipes_list": [
+          {
+            "name": "Grilled Salmon",
+            "ingredients": ["salmon fillets", "olive oil", "lemon juice", "garlic", "salt", "pepper"],
+            "cooking_method": "1. Preheat grill to medium-high heat. 2. In a small bowl, whisk together olive oil, lemon juice, minced garlic, salt, and pepper. 3. Brush the salmon fillets with the olive oil mixture. 4. Grill the salmon for 4-5 minutes per side, or until cooked to your desired level of doneness. 5. Serve hot.",
+            "rating": 4.5
+          },
+          {
+            "name": "Roasted Chicken",
+            "ingredients": ["chicken", "olive oil", "lemon", "garlic", "salt", "pepper"],
+            "cooking_method": "1. Preheat oven to 400°F. 2. Season the chicken with salt and pepper. 3. In a small bowl, whisk together olive oil, lemon juice, and minced garlic. 4. Rub the olive oil mixture all over the chicken. 5. Roast the chicken for 45-50 minutes, or until cooked through. 6. Let rest for 5 minutes before serving.",
+            "rating": 4.8
+          },
+          {
+            "name": "Pesto Pasta",
+            "ingredients": ["pasta", "basil leaves", "pine nuts", "garlic", "parmesan cheese", "olive oil"],
+            "cooking_method": "1. Cook the pasta according to package directions. 2. In a food processor, pulse together basil leaves, pine nuts, minced garlic, grated parmesan cheese, and olive oil until smooth. 3. Drain the pasta and return it to the pot. 4. Add the pesto sauce to the pasta and toss to coat. 5. Serve hot.",
+            "rating": 4.3
+          }
+        ]
+      },
+
+      { 
+        "id" : 3,
+        "name": "John Smith",
+        "image": "john-smith.jpg",
+        "experience": "5 years",
+        "recipes": 10,
+        "likes": 500,
+        "short_bio": "Chef John is passionate about using fresh, locally-sourced ingredients in his dishes. He loves experimenting with new flavors and techniques to create unique and memorable meals.",
+        "recipes_list": [
+          {
+            "name": "Grilled Salmon",
+            "ingredients": ["salmon fillets", "olive oil", "lemon juice", "garlic", "salt", "pepper"],
+            "cooking_method": "1. Preheat grill to medium-high heat. 2. In a small bowl, whisk together olive oil, lemon juice, minced garlic, salt, and pepper. 3. Brush the salmon fillets with the olive oil mixture. 4. Grill the salmon for 4-5 minutes per side, or until cooked to your desired level of doneness. 5. Serve hot.",
+            "rating": 4.5
+          },
+          {
+            "name": "Roasted Chicken",
+            "ingredients": ["chicken", "olive oil", "lemon", "garlic", "salt", "pepper"],
+            "cooking_method": "1. Preheat oven to 400°F. 2. Season the chicken with salt and pepper. 3. In a small bowl, whisk together olive oil, lemon juice, and minced garlic. 4. Rub the olive oil mixture all over the chicken. 5. Roast the chicken for 45-50 minutes, or until cooked through. 6. Let rest for 5 minutes before serving.",
+            "rating": 4.8
+          },
+          {
+            "name": "Pesto Pasta",
+            "ingredients": ["pasta", "basil leaves", "pine nuts", "garlic", "parmesan cheese", "olive oil"],
+            "cooking_method": "1. Cook the pasta according to package directions. 2. In a food processor, pulse together basil leaves, pine nuts, minced garlic, grated parmesan cheese, and olive oil until smooth. 3. Drain the pasta and return it to the pot. 4. Add the pesto sauce to the pasta and toss to coat. 5. Serve hot.",
+            "rating": 4.3
+          }
+        ]
+      },
+
+      { 
+        "id" : 4,
+        "name": "John Smith",
+        "image": "john-smith.jpg",
+        "experience": "5 years",
+        "recipes": 10,
+        "likes": 500,
+        "short_bio": "Chef John is passionate about using fresh, locally-sourced ingredients in his dishes. He loves experimenting with new flavors and techniques to create unique and memorable meals.",
+        "recipes_list": [
+          {
+            "name": "Grilled Salmon",
+            "ingredients": ["salmon fillets", "olive oil", "lemon juice", "garlic", "salt", "pepper"],
+            "cooking_method": "1. Preheat grill to medium-high heat. 2. In a small bowl, whisk together olive oil, lemon juice, minced garlic, salt, and pepper. 3. Brush the salmon fillets with the olive oil mixture. 4. Grill the salmon for 4-5 minutes per side, or until cooked to your desired level of doneness. 5. Serve hot.",
+            "rating": 4.5
+          },
+          {
+            "name": "Roasted Chicken",
+            "ingredients": ["chicken", "olive oil", "lemon", "garlic", "salt", "pepper"],
+            "cooking_method": "1. Preheat oven to 400°F. 2. Season the chicken with salt and pepper. 3. In a small bowl, whisk together olive oil, lemon juice, and minced garlic. 4. Rub the olive oil mixture all over the chicken. 5. Roast the chicken for 45-50 minutes, or until cooked through. 6. Let rest for 5 minutes before serving.",
+            "rating": 4.8
+          },
+          {
+            "name": "Pesto Pasta",
+            "ingredients": ["pasta", "basil leaves", "pine nuts", "garlic", "parmesan cheese", "olive oil"],
+            "cooking_method": "1. Cook the pasta according to package directions. 2. In a food processor, pulse together basil leaves, pine nuts, minced garlic, grated parmesan cheese, and olive oil until smooth. 3. Drain the pasta and return it to the pot. 4. Add the pesto sauce to the pasta and toss to coat. 5. Serve hot.",
+            "rating": 4.3
+          }
+        ]
+      },
+
+      { 
+        "id" : 5,
+        "name": "John Smith",
+        "image": "john-smith.jpg",
+        "experience": "5 years",
+        "recipes": 10,
+        "likes": 500,
+        "short_bio": "Chef John is passionate about using fresh, locally-sourced ingredients in his dishes. He loves experimenting with new flavors and techniques to create unique and memorable meals.",
+        "recipes_list": [
+          {
+            "name": "Grilled Salmon",
+            "ingredients": ["salmon fillets", "olive oil", "lemon juice", "garlic", "salt", "pepper"],
+            "cooking_method": "1. Preheat grill to medium-high heat. 2. In a small bowl, whisk together olive oil, lemon juice, minced garlic, salt, and pepper. 3. Brush the salmon fillets with the olive oil mixture. 4. Grill the salmon for 4-5 minutes per side, or until cooked to your desired level of doneness. 5. Serve hot.",
+            "rating": 4.5
+          },
+          {
+            "name": "Roasted Chicken",
+            "ingredients": ["chicken", "olive oil", "lemon", "garlic", "salt", "pepper"],
+            "cooking_method": "1. Preheat oven to 400°F. 2. Season the chicken with salt and pepper. 3. In a small bowl, whisk together olive oil, lemon juice, and minced garlic. 4. Rub the olive oil mixture all over the chicken. 5. Roast the chicken for 45-50 minutes, or until cooked through. 6. Let rest for 5 minutes before serving.",
+            "rating": 4.8
+          },
+          {
+            "name": "Pesto Pasta",
+            "ingredients": ["pasta", "basil leaves", "pine nuts", "garlic", "parmesan cheese", "olive oil"],
+            "cooking_method": "1. Cook the pasta according to package directions. 2. In a food processor, pulse together basil leaves, pine nuts, minced garlic, grated parmesan cheese, and olive oil until smooth. 3. Drain the pasta and return it to the pot. 4. Add the pesto sauce to the pasta and toss to coat. 5. Serve hot.",
+            "rating": 4.3
+          }
+        ]
+      },
+
+      { 
+        "id" : 6,
+        "name": "John Smith",
+        "image": "john-smith.jpg",
+        "experience": "5 years",
+        "recipes": 10,
+        "likes": 500,
+        "short_bio": "Chef John is passionate about using fresh, locally-sourced ingredients in his dishes. He loves experimenting with new flavors and techniques to create unique and memorable meals.",
+        "recipes_list": [
+          {
+            "name": "Grilled Salmon",
+            "ingredients": ["salmon fillets", "olive oil", "lemon juice", "garlic", "salt", "pepper"],
+            "cooking_method": "1. Preheat grill to medium-high heat. 2. In a small bowl, whisk together olive oil, lemon juice, minced garlic, salt, and pepper. 3. Brush the salmon fillets with the olive oil mixture. 4. Grill the salmon for 4-5 minutes per side, or until cooked to your desired level of doneness. 5. Serve hot.",
+            "rating": 4.5
+          },
+          {
+            "name": "Roasted Chicken",
+            "ingredients": ["chicken", "olive oil", "lemon", "garlic", "salt", "pepper"],
+            "cooking_method": "1. Preheat oven to 400°F. 2. Season the chicken with salt and pepper. 3. In a small bowl, whisk together olive oil, lemon juice, and minced garlic. 4. Rub the olive oil mixture all over the chicken. 5. Roast the chicken for 45-50 minutes, or until cooked through. 6. Let rest for 5 minutes before serving.",
+            "rating": 4.8
+          },
+          {
+            "name": "Pesto Pasta",
+            "ingredients": ["pasta", "basil leaves", "pine nuts", "garlic", "parmesan cheese", "olive oil"],
+            "cooking_method": "1. Cook the pasta according to package directions. 2. In a food processor, pulse together basil leaves, pine nuts, minced garlic, grated parmesan cheese, and olive oil until smooth. 3. Drain the pasta and return it to the pot. 4. Add the pesto sauce to the pasta and toss to coat. 5. Serve hot.",
+            "rating": 4.3
+          }
+        ]
+      }
+
+
+    ]
+  
+  
